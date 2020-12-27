@@ -111,8 +111,7 @@ export class AuthService {
       email: user.email,
       displayName: user.displayName,
       photoURL: user.photoURL,
-      emailVerified: user.emailVerified,
-      maxSize: user.maxSize
+      emailVerified: user.emailVerified
     }
     
     return userRef.set(userData, {
