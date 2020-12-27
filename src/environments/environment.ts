@@ -5,14 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyD5aw1y5DD2LtUYgY4piwPEEtfRxZryo8k",
-    authDomain: "boxeoume.firebaseapp.com",
-    databaseURL: "https://boxeoume.firebaseio.com",
-    projectId: "boxeoume",
-    storageBucket: "boxeoume.appspot.com",
-    messagingSenderId: "822517080438",
-    appId: "1:822517080438:web:9cefa975a5188fdd825a57",
-    measurementId: "G-5CSZF8E9KY"
+    apiKey: "AIzaSyCVMHrJ8ZgjrPa8FmBsQs39TcYq9irZG1A",
+    authDomain: "cours-tp-mouhaouir.firebaseapp.com",
+    projectId: "cours-tp-mouhaouir",
+    storageBucket: "cours-tp-mouhaouir.appspot.com",
+    messagingSenderId: "529117110089",
+    appId: "1:529117110089:web:a46e6cdb06573389240498"
   }
 };
 
